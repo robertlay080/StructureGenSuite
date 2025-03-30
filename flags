@@ -1,0 +1,23 @@
+
+---
+
+### **3. 30_LogBurstAnalyzer**  
+**Description:**  
+Analyzes system or app logs to detect message bursts, repeated lines, and error clusters.
+
+#### **README.md**
+```markdown
+# LogBurstAnalyzer - Log Pattern Detector
+
+LogBurstAnalyzer scans for repeating log lines and flags common failure patterns or noise spikes.
+
+## Features
+- Frequency summary  
+- Timestamp burst detection  
+- CLI-based and fast  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_LogBurstAnalyzer.git
+cd 30_LogBurstAnalyzer
+python analyze.py /var/log/app.log

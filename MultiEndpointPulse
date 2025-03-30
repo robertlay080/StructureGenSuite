@@ -1,0 +1,23 @@
+
+---
+
+### **2. 30_MultiEndpointPulse**  
+**Description:**  
+Scans and monitors multiple HTTP endpoints, logging response codes and latency.
+
+#### **README.md**
+```markdown
+# MultiEndpointPulse - HTTP Health Checker
+
+MultiEndpointPulse is a lightweight tool for monitoring several APIs in real time.
+
+## Features
+- Logs status and response time  
+- Retry handling  
+- Configurable delay  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_MultiEndpointPulse.git
+cd 30_MultiEndpointPulse
+python monitor.py

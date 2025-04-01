@@ -1,0 +1,23 @@
+
+---
+
+### **4. 30_StreamChartPulse**  
+**Description:**  
+Live charting of real-time numeric input for simulation or monitoring.
+
+#### **README.md**
+```markdown
+# StreamChartPulse - Real-Time Data Visualizer
+
+StreamChartPulse takes in a live data stream and displays it as a scrolling line chart.
+
+## Features
+- Real-time rendering  
+- Adjustable refresh rate  
+- Matplotlib-based  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_StreamChartPulse.git
+cd 30_StreamChartPulse
+python visualize.py
